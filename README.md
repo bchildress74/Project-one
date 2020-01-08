@@ -1,2 +1,2 @@
 # Project-one
-Brett, Isha, Assam and Christian's project
+Brett, Isha, Assam and Christin's project
