@@ -1,4 +1,4 @@
-year,state_abbr,population,violent_crime,homicide,rape_legacy,rape_revised,robbery,aggravated_assault,property_crime,burglary,larceny,motor_vehicle_theft,caveats
+YEAR,STATE,population,violent_crime,homicide,rape_legacy,rape_revised,robbery,aggravated_assault,property_crime,burglary,larceny,motor_vehicle_theft,caveats
 1979,National Statistic,220099000,1208030,21460,76390,,480700,629480,11041500,3327700,6601000,1112800,
 1980,National Statistic,225349264,1344520,23040,82990,,565840,672650,12063700,3795200,7136900,1131700,
 1981,National Statistic,229465714,1361820,22520,82500,,592910,663900,12061900,3779700,7194400,1087800,
